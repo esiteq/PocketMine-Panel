@@ -14,6 +14,8 @@ www-data ALL=(ALL) NOPASSWD: /home/arik/pocketmine-mp/start.sh, NOPASSWD: /bin/p
 </ol>
 # Compatibility
 <p>This control panel works on Linux and tested on Debian distribution. It will not run on Windows - i am not a Windows specialist. Maybe later I will add Windows support.</p>
+# Support
+<p>There is no any kind of support offered for this project. I am very busy working on other projects. Will work on bug fixes and new features when I have time.</p>
 # Screenshots
 <p>This panel is very simple. It uses Bootstrap from Twitter.</p>
 <p><img src="http://i.imgur.com/IOYVZ0g.png" /></p>
