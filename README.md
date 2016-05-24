@@ -1,5 +1,6 @@
 # PocketMine-Panel
 <p>This is a very simple Web panel for PocketMine-MP server. It lets you start, stop and restart the server, and view server log, without access to Linux shell.</p>
+<p>This panel has no ability to view players, ban players, add plugins, etc. Maybe later, these functions will be added.</p>
 # Installation
 <p>Installation instructions are for Debian family distributions (Debian, Ubuntu). On other distributions, such as CentOS / RedHat, you need to use instructions for these operation systems to get all scripts working.</p>
 <ol><li>First, you need root access to your server to be able to get all necessary permissions.</li>
